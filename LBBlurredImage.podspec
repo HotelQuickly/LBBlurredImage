@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'LBBlurredImage'
-  s.version      = '0.2.11'
+  s.version      = '0.2.2'
   s.summary      = 'LBBlurredImage is an UIImageView category that allow to set an image and make this blurred.'
   s.homepage     = 'https://github.com/kazekim/LBBlurredImage'
   s.license      = { :type => 'MIT',

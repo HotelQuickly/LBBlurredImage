@@ -6,8 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT',
                      :file => 'LICENSE' }
   s.author       = { 'Luca Bernardi' => 'luka.bernardi@gmail.com' }
-  s.source       = { :git => 'https://github.com/kazekim/LBBlurredImage.git',
-                     :tag => '0.2.2' }
+  s.source       = { :git => 'https://github.com/kazekim/LBBlurredImage.git'}
   s.platform     = :ios, '6.0'
   s.source_files = 'Classes', 'LBBlurredImage/UIImage*.{h,m}'
   s.public_header_files = 'LBBlurredImage/UIImageView*.{h,m}'
